@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ichin23
 - 👀 I’m interested in mobile applications
-- 🌱 I’m currently learning Flutter, JS
+- 🌱 I’m currently learning Flutter and JS
 
 
 <!---
