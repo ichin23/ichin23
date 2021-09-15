@@ -9,5 +9,5 @@
 
 <p><img align="left" height="250" width="500" src="https://github-readme-stats.vercel.app/api/top-langs?username=ichin23&show_icons=true&locale=en&layout=compact" alt="ichin23" /></p>
 <p>&nbsp;<img align="center" height="250" width="500" src="https://github-readme-stats.vercel.app/api?username=ichin23&show_icons=true&theme=tokyonight&locale=en" alt="ichin23" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ichin23&" alt="ichin23" /></p>
+<p><img align="center" height="250" width="500" src="https://github-readme-streak-stats.herokuapp.com/?user=ichin23&" alt="ichin23" /></p>
 
