@@ -9,6 +9,6 @@
 <div style="display: inline_block" align="center">
 <img align="center" style=" width=calc(100vw/2)" src="https://github-readme-stats.vercel.app/api?username=ichin23&show_icons=true&theme=vue-dark&locale=en" alt="ichin23" />
 <img align="center"  style=" width=calc(100vw/2)" src="https://github-readme-streak-stats.herokuapp.com/?user=ichin23&theme=vue-dark" alt="ichin23" /></div>
-
+<br/>
 <p align="center">
 <img height="250"  style=" width=calc(100vw/2)" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ichin23&layout=compact&hide=c,c%2B%2B,assembly,swift,shell,makefile,perl,yacc,roff,objective-c&theme=vue-dark" alt="ichin23" /></p>
