@@ -11,4 +11,4 @@
 <img align="center" height="250" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=ichin23&theme=vue-dark" alt="ichin23" /></div>
 
 <div style="display: inline_block">
-<img align="left" height="250" width="500" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ichin23&layout=compact&hide=c,c%2B%2B,assembly,swift,shell,makefile,perl,yacc,roff,objective-c&theme=vue-dark" alt="ichin23" /></div>
+<img align="center" height="250" width="500" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ichin23&layout=compact&hide=c,c%2B%2B,assembly,swift,shell,makefile,perl,yacc,roff,objective-c&theme=vue-dark" alt="ichin23" /></div>
