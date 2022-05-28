@@ -12,3 +12,4 @@
 <br/>
 <p align="center">
 <img height="250"  style=" width=calc(100vw/2)" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ichin23&layout=compact&hide=c,c%2B%2B,assembly,swift,shell,makefile,perl,yacc,roff,objective-c&theme=vue-dark" alt="ichin23" /></p>
+<p>May have some projects in my gitlab that are not here. Check here: <a href="https://gitlab.com/ichin23">https://gitlab.com/ichin23</a></p>
