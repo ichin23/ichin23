@@ -14,9 +14,16 @@
 <a href="https://www.microsoft.com/pt-br/windows" target="_blank"> <img src="https://www.vectorlogo.zone/logos/microsoft/microsoft-icon.svg" alt="Windows" width="40", height="40/></a>
   <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank"> 
 
-<div style="display: inline_block" align="center">
-<img align="center" style=" width=50vw" src="https://github-readme-stats.vercel.app/api?username=ichin23&show_icons=true&theme=vue-dark&locale=en" alt="ichin23" />
-<img height="250"  style=" width=calc(100vw/2)" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ichin23&layout=compact&hide=c,c%2B%2B,assembly,swift,shell,makefile,perl,yacc,roff,objective-c&theme=vue-dark" alt="Github: ichin23" /></div>
+<table align="center" style="border:0;">
+  <tr>
+    <td style="border:0;">
+      <img src="https://github-readme-stats.vercel.app/api?username=ichin23&show_icons=true&theme=vue-dark&locale=en" alt="Estatísticas do GitHub" />
+    </td>
+    <td style="border:0;">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ichin23&layout=compact&hide=c,c%2B%2B,assembly,swift,shell,makefile,perl,yacc,roff,objective-c&theme=vue-dark" alt="Principais Linguagens" />
+    </td>
+  </tr>
+</table>
 <br/>
 <p align="center">
 </p>
