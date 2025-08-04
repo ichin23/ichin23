@@ -20,7 +20,7 @@
       <img src="https://github-readme-stats.vercel.app/api?username=ichin23&show_icons=true&theme=vue-dark&locale=en" alt="Estatísticas do GitHub" />
     </td>
     <td style="border:0;">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ichin23&layout=compact&hide=c,c%2B%2B,assembly,swift,shell,makefile,perl,yacc,roff,objective-c&theme=vue-dark" alt="Principais Linguagens" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ichin23&layout=compact&hide=c,c%2B%2B,assembly,swift,shell,makefile,perl,yacc,roff,objective-c,html&theme=vue-dark" alt="Principais Linguagens" />
     </td>
   </tr>
 </table>
